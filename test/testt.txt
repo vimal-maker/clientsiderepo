@@ -1,1 +1,3 @@
 Hi..this is my Github
+
+A bug is Fixed
